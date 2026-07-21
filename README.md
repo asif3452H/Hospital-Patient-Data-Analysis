@@ -49,6 +49,10 @@ Hospital-Patient-Data-Analysis/
 
 ## Visualizations
 
+### Terminal Output
+
+![Bar Chart](images/output.png)
+
 ### Patients by Disease
 
 ![Bar Chart](images/bar_chart.png)
