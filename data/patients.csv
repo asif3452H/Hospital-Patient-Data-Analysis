@@ -1,0 +1,13 @@
+PatientID,Name,Age,Disease,City,Cost
+101,Rahim,45,Diabetes,Dhaka,12000
+102,Karim,32,Cancer,Dhaka,30000
+103,Nabila,28,Diabetes,Chittagong,8000
+104,Sadia,29,Heart,Dhaka,15000
+105,Jamil,55,Cancer,Rajshahi,45000
+106,Mina,41,Heart,Chittagong,20000
+107,Rafi,60,Diabetes,Dhaka,10000
+108,Hasan,38,Cancer,Rajshahi,35000
+109,Nadia,34,Heart,Dhaka,18000
+110,Sohan,48,Flu,Khulna,7000
+111,Ayesha,27,Flu,Dhaka,9000
+112,Tanvir,35,Cancer,Khulna,25000
